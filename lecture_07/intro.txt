@@ -1,3 +1,3 @@
-name:prnv
+name:abhi
 branch:data science
-college:GHRCE
+college:ghrce
